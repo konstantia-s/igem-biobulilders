@@ -43,12 +43,12 @@ body {
 }
 
 .nav-links a:hover {
-    color: #18bc9c; /* iGEM green highlight */
+    color: #f4f7f6; /* iGEM green highlight */
 }
 
 /* --- HERO SECTION (Banner) --- */
 .hero-section {
-    background-color: #18bc9c;
+    background-color: #f4f7f6;
     color: white;
     text-align: center;
     padding: 80px 20px;
